@@ -18,3 +18,9 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
+
+### 📅 My contributions calendar
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="Metrics" />
+</p>
