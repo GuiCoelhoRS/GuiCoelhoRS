@@ -1,0 +1,30 @@
+name: Metrics
+on:
+  # Run every 6 hours and on every push to main
+  schedule: [{ cron: "0 */6 * * *" }]
+  workflow_dispatch:
+  push: { branches: ["main"] }
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Output file
+          filename: github-metrics.svg
+
+          # Token from Step 2
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Your username
+          user: GuiCoelhoRS
+
+          # Base content (set to empty so we only get the calendar)
+          base: ""
+
+          # ---- Isometric Calendar plugin ----
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year   # or "half-year" for a smaller version
