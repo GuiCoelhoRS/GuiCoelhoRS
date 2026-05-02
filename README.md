@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Guilherme Coelho!</h1>
 <p align="center">
-  <em>Welcome to my GitHub Profile. I'm a passionate Computer Science Student really focused on learning new tech. I am really interested in topics like CyberSecurity and FrontEnd and Backend Development. Some other points that I like are AI and Robotics.</em>
+  <em>Welcome to my GitHub Profile. I'm a passionate Computer Science Student really focused on learning new tech. I am really interested in topics like CyberSecurity and FrontEnd and Backend Development. Some other points that I like are AI, Robotics, Game Development and 2d/3d Digital Art.</em>
 
 ---
   
