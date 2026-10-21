@@ -1,6 +1,23 @@
-<h1 align="center">👋 Hi there, I'm Guilherme Coelho!</h1>
+```text
+                                                       ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                            ⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                                                       ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    ⠀    ⠀              ⠀      ⠹⣿⠿⠓⣢⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                                                       ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                            ⠘⢿⣿⣿⠋⢩⣶⣿⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  ____       _ _ _                                     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    ⠀⠀                        ⠈⠫⢄⣿⣿⣿⣿⣿⣿⣷⣀⣀⠀⠀⠀⠀⠀⠀⠀
+ / ___|_   _(_) | |__   ___ _ __ _ __ ___   ___                                    ⣤⣤⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⢛⣿⣿⣿⣿⣿⣾⣢⠀⠀⠀⠀⠀
+| |  _| | | | | | '_ \ / _ \ '__| '_ ` _ \ / _ \                                   ⠘⢿⣿⣿⠋⠉⣐⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣄⣊⣿⣷⡆⠀⠀⠀
+| |_| | |_| | | | | | |  __/ |  | | | | | |  __/                                 ⠀  ⠀⠙⢧⡀⣾⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⣿⣿⣿⣿⣿⣿⢻⠟⠁⠀⠀⠀
+ \____|\__,_|_|_|_| |_|\___|_|  |_| |_| |_|\___|       ⠀⠀⠀⠀                            ⠈⠛⠿⢿⣿⣿⣿⣄⠀⠀⠀⠀⠀⢀⣠⣴⣿⣿⣿⣿⣿⣿⠟⠿⠟⢀⣠⣴⣾⣿⠇
+                                                       ⠀⠀⠀⠀    ⠀                      ⠀⠀  ⠀⠀⠉⢛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⣿⡿⠟⠉⠀⠀
+  ____           _ _                                   ⠀⠀⠀⠀⠀    ⠀⠀                      ⠀  ⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⡿⢿⣿⣿⠟⠋⠁⠀⠀⠀⠀⠀
+ / ___|___   ___| | |__   ___                          ⠀⠀⠀    ⠀⠀⠀⠀                        ⠀⠀⣾⡿⡟⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⠷⢝⠷⠆⣿⣷⣦⣀⠀⠀⠀⠀⠀
+| |   / _ \ / _ \ | '_ \ / _ \                         ⠀⠀    ⠀⠀                    ⠀  ⠀  ⠀⠀⢰⡟⣾⡗⣸⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⠻⢿⣿⣿⣶⡆⠀⠀
+| |__| (_) |  __/ | | | | (_) |                        ⠀⠀    ⠀⠀                      ⠀  ⠀⢠⣶⣿⣇⣛⣴⡿⠿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀
+ \____\___/ \___|_|_| |_|\___/                         ⠀⠀    ⠀                    ⠀    ⠀⢠⣿⣿⡿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                                                       ⠀⠀    ⠀                      ⠀  ⠀⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                                                                               ⠀  ⠀⠀  ⠀⠸⠿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```  
 <p align="center">
-  <em>Welcome to my GitHub Profile. I'm a passionate Computer Science Student really focused on learning new tech. I am really interested in topics like CyberSecurity and FrontEnd and Backend Development. Some other points that I like are AI, Robotics, Game Development and 2d/3d Digital Art.</em>
+  <em>Welcome to my GitHub Profile. I'm a passionate Computer Science Student really focused on learning new tech. I am really interested in topics like CyberSecurity and Backend Development. Some other points that I like are AI, Robotics, Game Development and 2d/3d Digital Art.</em>
 
 ---
   
