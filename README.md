@@ -25,4 +25,4 @@
 ---
 <h1>Skills & Tools</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,arduino,godot,github,idea,html,css,js,linux,md,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,arduino,godot,github,idea,html,css,js,linux,md,vscode,bash,clion,django,docker)](https://skillicons.dev)
